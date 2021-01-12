@@ -1,4 +1,4 @@
-# Daily Code Challenge - Array Reverse
+# Daily Code Challenge - Array Shift
 
 ## Perfect Sequence
 *Author: Matthew Petersen*
@@ -7,7 +7,7 @@
 
 ### Problem Domain
 
-Reverse a given array.
+Given an integer array and an integer, insert the integer to the middle of the array.
 
 ---
 
@@ -15,7 +15,7 @@ Reverse a given array.
 
 | Input | Expected Output |
 | :----------- | :----------- |
-| [1, 2, 3, 4, 5] | [5, 4, 3, 2, 1] |
+| [3, 5, 6], 4 | [3, 4, 5, 6] |
 
 
 ---
@@ -25,15 +25,14 @@ Reverse a given array.
 
 | Time | Space |
 | :----------- | :----------- |
-| O(n) | O(n) |
+| O(n) | O(2n) |
 
-Utilizing a for loop, I iterate over the given array / 2. I do this to find the middle of the array, then we can perform our swaps. 
 ---
 
 
 ### Whiteboard Visual
 ***[Your Whiteboard Image]***
-![Image 1](../images/CC1.PNG)
+![Image 1](../images/CC2.PNG)
 
 
 ---

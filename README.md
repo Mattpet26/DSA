@@ -1,3 +1,3 @@
 # Table of Contents
 
-- [Array Reverse](ArrayReverse/readme.md)# DSA
+- [Array Reverse](../DSA/ArrayReverse/readme.md)# DSA

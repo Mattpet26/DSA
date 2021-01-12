@@ -1,3 +1,3 @@
 # Table of Contents
 
-- [Array Reverse](../ArrayReverse/readme.md)
+- [Array Reverse](ArrayReverse/readme.md)

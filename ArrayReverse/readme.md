@@ -33,7 +33,7 @@ Utilizing a nested for-loop doubles our time complexity.
 
 ### Whiteboard Visual
 ***[Your Whiteboard Image]***
-![Image 1](images/CC1.PNG)
+![Image 1](../images/CC1.PNG)
 
 
 ---

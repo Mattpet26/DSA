@@ -37,7 +37,7 @@ Left variable > right variable (we never found our value)
 
 ### Whiteboard Visual
 ***[Your Whiteboard Image]***
-![Image 1](../images/CC3.PNG)
+![Image 1](../../images/CC3.PNG)
 
 
 ---

@@ -32,6 +32,7 @@ Binary searches are great and fast for searching sorted arrays. First I set a le
 Mid point = target integer
 
 Left variable > right variable (we never found our value)
+
 ---
 
 

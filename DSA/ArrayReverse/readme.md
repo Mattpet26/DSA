@@ -33,7 +33,7 @@ Utilizing a for loop, I iterate over the given array / 2. I do this to find the 
 
 ### Whiteboard Visual
 ***[Your Whiteboard Image]***
-![Image 1](../images/CC1.PNG)
+![Image 1](../../images/CC1.PNG)
 
 
 ---

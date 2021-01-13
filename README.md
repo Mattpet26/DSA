@@ -1,4 +1,5 @@
 # Table of Contents
 
-- [Array Reverse](ArrayReverse/readme.md)
-- [Array Shift](ArrayShift/readme.md) 
+- [Array Reverse](DSA/ArrayReverse/readme.md)
+- [Array Shift](DSA/ArrayShift/readme.md) 
+- [Binary Search](DSA/BinarySearch/readme.md)

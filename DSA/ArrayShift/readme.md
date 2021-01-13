@@ -32,7 +32,7 @@ Given an integer array and an integer, insert the integer to the middle of the a
 
 ### Whiteboard Visual
 ***[Your Whiteboard Image]***
-![Image 1](../images/CC2.PNG)
+![Image 1](../../images/CC2.PNG)
 
 
 ---
